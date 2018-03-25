@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+android:background="@android:color/background_dark"
+tools:context="com.example.piyushgupta.esp.MainActivity">
+
+    <WebView
+        android:id="@+id/webview"
+        android:background="@android:color/background_dark"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        />
+</RelativeLayout>
